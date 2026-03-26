@@ -1,5 +1,5 @@
 # Ex1(E) Stack Operations
-## DATE:1/03/2025
+## DATE:23/02/2026
 ## AIM:
 To write a C function to perform push and pop operation of the stack in the infix to postfix conversion.
 
